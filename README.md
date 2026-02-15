@@ -1,2 +1,2 @@
 # Apple-Stocks-Predictor
-Predicts Apple Prices with a high accuracy.
+Predicts Apple Stock Prices with a high accuracy.
